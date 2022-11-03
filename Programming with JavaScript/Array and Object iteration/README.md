@@ -63,7 +63,7 @@ Remember, you need to console log both the key and the value of each of the bird
 <br>
 <b>Step 3.</b> 
     Using the same starter code as in task 2, create a function called `animalCan` and within it, loop over all the properties in both the bird object and its prototype - the animal object - using the for...in loop. 
-  
+   
 <br><br>
 ## Final Step: Let's submit your code!
 Nice work! To complete this assessment:
